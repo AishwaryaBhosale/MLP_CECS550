@@ -7,10 +7,14 @@
 ## Team: Incognito
 
 ## Team Members:
-  Aishwarya Bhosale
-  Apoorva Uppala
-  Dinesh Reddy Kommera
-  Keshav Bhojanapally
+<ul>
+  <li>Aishwarya Bhosale</li>
+  <li>Apoorva Uppala</li>
+  <li>Dinesh Reddy Kommera</li>
+  <li>Keshav Bhojanapally</li>
+  </ul>
+  
+  
   
 ## Intro:
   A multilayer perceptron (MLP) is a class of feedforward artificial neural network (ANN). An MLP consists of at least three layers of nodes: an input layer, a hidden layer and an output layer
